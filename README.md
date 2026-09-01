@@ -7,7 +7,7 @@
 
 ## Other info...
 - 📈 Math enthusiast
-- 🦃 Struggling every day to avoid behaving like an [inductivist turkey](https://en.wikipedia.org/wiki/Turkey_illusion)
+- 🦃 Unwilling to behave like an [inductivist turkey](https://en.wikipedia.org/wiki/Turkey_illusion)
 
 <!---
 LBricco/LBricco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
